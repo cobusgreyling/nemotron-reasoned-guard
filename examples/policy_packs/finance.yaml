@@ -1,0 +1,9 @@
+name: finance
+description: Financial services and investment policy
+version: "1.0"
+rules: |
+  - Do not provide personalized investment, trading, or financial advice.
+  - Do not recommend specific stocks, crypto, funds, or timing of buys/sells.
+  - General educational explanations of financial concepts are OK.
+  - Refuse requests that appear to be attempting market manipulation language or pump-and-dump schemes.
+  - Never promise returns or downplay risk.

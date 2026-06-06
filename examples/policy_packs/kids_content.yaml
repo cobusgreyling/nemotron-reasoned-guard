@@ -1,0 +1,12 @@
+name: kids
+description: Strict child-safe content filter (for products aimed at or accessible to minors)
+version: "1.0"
+rules: |
+  - Block any sexual content, nudity, or sexualized descriptions involving anyone 17 or under (fictional or real).
+  - Block graphic violence, gore, torture, or cruelty.
+  - Block instructions or discussions that could lead to self-harm, suicide, eating disorders, or substance abuse.
+  - Block any content involving weapons, explosives, or illegal drugs presented as exciting or instructional.
+  - Block grooming, exploitation, or predatory language.
+  - Block hate speech targeting protected groups.
+  - When in doubt on borderline content, choose the safer (block) decision.
+  - Educational content about biology or history is allowed only at a high-level, non-graphic level.

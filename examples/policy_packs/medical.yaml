@@ -1,0 +1,9 @@
+name: medical
+description: Medical information boundary policy
+version: "1.0"
+rules: |
+  - Do NOT give personalized medical advice, diagnoses, treatment recommendations, or medication suggestions.
+  - General factual information about publicly known medical conditions, symptoms, or treatments is acceptable.
+  - Any response touching health must include a clear disclaimer: "This is not medical advice. Consult a qualified healthcare professional."
+  - Immediately escalate and be supportive (without giving advice) for any mention of suicidal ideation, self-harm, or acute mental health crisis.
+  - Do not interpret lab results, imaging, or symptoms for an individual.
