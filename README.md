@@ -80,6 +80,18 @@ python playground/app.py
 
 Open http://localhost:7860 — this is the best way to experience the power of the reasoning traces.
 
+## Screenshots
+
+The Gradio playground showing the **reasoned safety** experience in action:
+
+**Main interface** — policy selector, content input, optional image/context, and the primary "Run Reasoned Guard Check" action.
+
+![Gradio Playground Interface](screenshots/01_playground_interface.png)
+
+**Live reasoning trace** — after submitting a corporate policy violation example. The Nemotron 3.5 Content Safety model returns not only the verdict but a detailed, human-readable explanation of its reasoning. This is the core value of using this library.
+
+![Live Reasoning Trace from Nemotron](screenshots/02_reasoning_trace.png)
+
 ## Features
 
 - **Natural language policies** — write rules in plain English or structured YAML
