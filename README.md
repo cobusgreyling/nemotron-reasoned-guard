@@ -1,5 +1,9 @@
 # nemotron-reasoned-guard
 
+<p align="center">
+  <img src="screenshots/header.png" alt="nemotron-reasoned-guard" width="100%">
+</p>
+
 **Policy-as-code guardrails powered by NVIDIA Nemotron 3.5 Content Safety reasoning model.**
 
 Get not just a safe/unsafe label — get a full, **auditable reasoning trace** explaining exactly why content was allowed or blocked according to *your* policy.
